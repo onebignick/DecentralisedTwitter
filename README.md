@@ -1,2 +1,2 @@
 # DecentralisedTwitter
-Twitter clone with solidity
+Inspiration from leetcode: Design twitter
